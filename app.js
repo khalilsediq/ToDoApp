@@ -40,6 +40,6 @@ function editTodo(index) {
   onResult()
 }
 
-function emptyInput(){
+// function emptyInput(){
     
-}
+// }
